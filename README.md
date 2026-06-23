@@ -72,38 +72,3 @@ scikit-learn-cookbook/
 ├── 13. Deploying Models in Production/
 └── README.md
 ```
-
-Each chapter folder contains Jupyter Notebooks (`.ipynb`) with self-contained recipes that include explanations, code, and visualizations.
-
-## 💡 How to Use This Cookbook
-
-1. **Sequential learning** — Work through chapters 01–13 in order for a complete ML curriculum.
-2. **Recipe-based** — Jump to any specific chapter for targeted recipes on a particular topic.
-3. **Reference** — Use individual notebooks as quick references for specific scikit-learn techniques.
-
-Each notebook is designed to be self-contained with:
-- Clear problem statements
-- Step-by-step code walkthroughs
-- Visualizations of results
-- Practical tips and best practices
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Open an issue for bugs or suggestions
-- Submit a pull request with improvements
-- Add new recipes or enhance existing ones
-
-## 📄 License
-
-This project is open source and available for educational purposes.
-
-## 🙏 Acknowledgments
-
-- [scikit-learn documentation](https://scikit-learn.org/stable/documentation.html)
-- [scikit-learn Cookbook, Third Edition](https://www.packtpub.com/) — Packt Publishing
-- The scikit-learn community and contributors
-
----
-
-⭐ **If you find this repository helpful, please consider giving it a star!**
